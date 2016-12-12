@@ -1,0 +1,26 @@
+{
+  "type": "datasource",
+  "name": "Google-Cloud-Platform",
+  "id": "google-cloud-platform",
+
+  "metrics": true,
+
+  "info": {
+    "version": "0.0.1",
+    "author": {
+      "name": "Utkarsh Bhatnagar",
+      "url": "https://github.com/utkarshcmu"
+    },
+   "links":[
+     {"name": "GitHub", "url": "https://github.com/utkarshcmu/google-cloud-platform-datasource"}
+    ],
+   "logos": {
+      "small": "img/gcp_logo.png",
+      "large": "img/gcp_logo.png"
+    },
+   "dependencies": {
+     "grafanaVersion": "3.x.x",
+     "plugins": [ ]
+    }
+  }
+}
